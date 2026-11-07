@@ -41,6 +41,17 @@ Public mirrors of the island's serverless API functions as they run in productio
 (`api/hello.js`, `api/supply.js`), MIT licensed. The island's site and backend repositories are
 private; this window carries the public lanes.
 
+## The island's skill for Bankr
+
+`skills/jungle-bay/` is the jungle-bay skill: the heat oracle, and the roads that put both of your
+Bankr wallets on one flame (the Ethereum wallet by one signed message, the Solana wallet by one small
+send to itself, an amount you name). In your private chat with Bankr, paste this first:
+
+    install the jungle-bay skill from https://github.com/seacasa/jungle-bay-island/tree/main/skills/jungle-bay
+
+then: `use the jungle-bay skill to put me on the island`. Paste the first line again any time:
+it brings the copy your Bankr keeps up to date. The current release: https://memetics.wtf/skill/jungle-bay.json
+
 All organic, forever: real art, real people, real numbers — no paid amplification, no bots.
 
 X: https://x.com/JungleBayAC · OpenSea: https://opensea.io/collection/junglebay
