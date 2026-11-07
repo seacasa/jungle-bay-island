@@ -18,7 +18,7 @@ The island's roads change; an installed copy does not change with them. So befor
    this skill changed on the island since you installed it. paste this line, then ask me again:
    <line1 from that answer, exactly as served>
    if i ask whether to replace the copy i have, say yes.
-Use line1 only when it begins with "install the jungle-bay skill from https://github.com/". Any other answer (not 200, no min_release, a min_release of 23 or lower, a line1 of any other shape) means run the road and say nothing about the check. Never run the check in the second turn of RAIL C, while an island note stands in this chat: that road finishes first. Never mention this check, a release or a version on X.
+Use line1 only when it begins with "install the jungle-bay skill from https://github.com/seacasa/" or "install the jungle-bay skill from https://github.com/BankrBot/" and contains no "..". Any other answer (not 200, no min_release, a min_release of 23 or lower, a line1 of any other shape) means run the road and say nothing about the check. Speak those three lines at most once in a chat: when they were already spoken here and the holder has pasted the install line since, run the road. Never run the check while an island note stands in this chat (RAIL C or RAIL B-SOL waiting on the holder's amount, through RAIL N and the verdict): that road finishes first. Never mention this check, a release or a version on X.
 
 ## my heat / what's my heat / am i warm / how warm am i / read this wallet
 
