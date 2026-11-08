@@ -1,12 +1,11 @@
-# doors, the only links (from the island's own pages and its llms.txt, read 2026-10-27; every link answered 200 that day; this skill's home and its pointer added 2026-11-07)
+# doors, the only links (from the island's own pages and its llms.txt, read 2026-10-27; every link answered 200 that day; the pointer added 2026-11-07)
 
 - https://memetics.wtf/: the island. The bungalows on the shore, the fire, the bodega, and NEW HERE?, where Bayla walks a newcomer in.
 - https://memetics.wtf/heat: the heat paper, the ruler, and the reader for any wallet. The line for anyone without a score, verbatim: check your heat score at https://memetics.wtf/heat
 - https://memetics.wtf/register: the one door. Link wallets, one signed message each, so the island reads one person as one flame. Nothing moves. A flame that already exists is joined with a code from it.
 - https://memetics.wtf/name: the name on a flame. The wallet signs for a code at the register; the holder signs in with X here and types it. Nothing moves.
 - https://memetics.wtf/bankr: the register's Bankr road, the two lines for a private chat with Bankr.
-- https://github.com/seacasa/jungle-bay-island/tree/main/skills/jungle-bay: this skill's home. A holder installs it, or brings an old copy up to date, by pasting into their private chat with Bankr: install the jungle-bay skill from https://github.com/seacasa/jungle-bay-island/tree/main/skills/jungle-bay
-- https://memetics.wtf/skill/jungle-bay.json: this skill's current release and its install line, as the island serves them.
+- https://memetics.wtf/skill/jungle-bay.json: this skill's live home and its install line (line1), as the island serves them. A holder installs the skill, or brings an old copy up to date, by pasting line1 into their private chat with Bankr. The homes today: https://github.com/seacasa/jungle-bay-island/tree/main/skills/jungle-bay and https://github.com/BankrBot/skills/tree/main/jungle-bay
 - https://memetics.wtf/flames: the board, the flames of the island. Ranked by heat, names by signature only, no addresses ever.
 - https://memetics.wtf/map: every door on the island, one line each.
 - https://memetics.wtf/bayla: $BAYLA, the system of twelve, in English and 中文.

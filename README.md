@@ -50,7 +50,7 @@ send to itself, an amount you name). In your private chat with Bankr, paste this
     install the jungle-bay skill from https://github.com/seacasa/jungle-bay-island/tree/main/skills/jungle-bay
 
 then: `use the jungle-bay skill to put me on the island`. Paste the first line again any time:
-it brings the copy your Bankr keeps up to date. The current release: https://memetics.wtf/skill/jungle-bay.json
+it brings the copy your Bankr keeps up to date. The live install line, whichever home is up: https://memetics.wtf/skill/jungle-bay.json
 
 All organic, forever: real art, real people, real numbers — no paid amplification, no bots.
 
